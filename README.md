@@ -31,6 +31,6 @@ The task is to write API for hall booking app for
    ❑ Start Time
    ❑ End Time
 
-[Heroku] (https://documenter.getpostman.com/view/13071876/UVsSMiP8)
+### [Heroku](https://documenter.getpostman.com/view/13071876/UVsSMiP8) <br /> 
 
-[Postman Documentation] (https://documenter.getpostman.com/view/13071876/UVsSMiP8)
+### [Postman Documentation](https://documenter.getpostman.com/view/13071876/UVsSMiP8)
