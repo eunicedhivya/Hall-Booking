@@ -12,7 +12,6 @@ app.use(express.json());
 
 // Port for localhost
 const PORT = process.env.PORT;
-// const PORT = 4000;
 
 let halls = [
   {
